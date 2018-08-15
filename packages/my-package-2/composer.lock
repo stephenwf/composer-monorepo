@@ -1,0 +1,33 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "c3b5986e5a772a5c6ba5a36a30bc7f83",
+    "packages": [
+        {
+            "name": "stephenwf/my-package-1",
+            "version": "0.0.1",
+            "dist": {
+                "type": "path",
+                "url": "../../packages/my-package-1",
+                "reference": "b0963835b59f6f88d7b8f2adbba804b43a80ba08",
+                "shasum": null
+            },
+            "type": "library",
+            "description": "Testing my package 1"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": [],
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "platform-overrides": {
+        "php": "7.0.23"
+    }
+}

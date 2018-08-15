@@ -1,0 +1,14 @@
+{
+  "name": "stephenwf/my-package-0",
+  "version": "0.0.1",
+  "description": "Testing my package 0",
+  "require": {
+    "stephenwf/my-package-1": "0.0.1"
+  },
+  "repositories": [
+    {
+      "type": "path",
+      "url": "../../packages/*"
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "stephenwf/mono-repo",
+  "require": {
+    "composer/composer": "dev-master",
+    "bulton-fr/dependency-tree": "@stable"
+  },
+  "scripts": {
+    "post-install-cmd": "php ./composer.php"
+  }
+}
