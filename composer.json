@@ -5,6 +5,6 @@
     "bulton-fr/dependency-tree": "@stable"
   },
   "scripts": {
-    "post-install-cmd": "php ./composer.php"
+    "post-autoload-dump": "php ./composer.php"
   }
 }
